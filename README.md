@@ -11,7 +11,7 @@
 <p align="center">
 	<a href="https://github.com/Akash23536">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;uietian;India&center=true&width=380&height=45">
-	</a>
+	                           </a>
 </p>
 
 <hr>
