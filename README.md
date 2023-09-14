@@ -55,8 +55,8 @@
 </p>
 <hr>
  
-<p align="center" ><img  align="left" src="https://github-readme-stats.vercel.app/api?username=akash23536&show_icons=true&theme=radical" alt="akash23536" />
-	<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akash23536&theme=radical" alt="akash23536" /></p>
+<p  ><img  src="https://github-readme-stats.vercel.app/api?username=akash23536&show_icons=true&theme=radical" alt="akash23536" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=akash23536&theme=radical" alt="akash23536" /></p>
 <hr>
  <p align="center">  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /> </p>
  <hr>
