@@ -1,16 +1,16 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Akash Bhadana</h1>
-
-## ABOUT ME ✌
-##### I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript; I build websites that delight and inform. I do it well. I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction. I do my best to stay on top of changes in the state of the art so that I can meet challenges with tools well suited to the job at hand...✌✌
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash23536&label=Profile%20views&color=0e75b6&style=flat" alt="akash23536" /> </p>
-<br/>
-<p align="center">
-	<a href="https://github.com/Akash23536">
-<img src="https://readme-typing-svg.herokuapp.com?lines=नमस्ते;ਸਤ ਸ੍ਰੀ ਅਕਾਲ;Hello;Bonjour;Hola;привет;こんにちは;안녕하세요&center=true&width=380&height=45">    </a>
+<hr>
+<h1 align="left">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Akash Bhadana</h1>
+<hr>
+ ABOUT ME ✌
+ I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript; I build websites that delight and inform. I do it well. I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction. I do my best to stay on top of changes in the state of the art so that I can meet challenges with tools well suited to the job at hand...✌✌
+
+
+<hr>
+<p align="center">	
+<img src="https://readme-typing-svg.herokuapp.com?lines=नमस्ते;Hello;ਸਤ+ਸ੍ਰੀ+ਅਕਾਲ;Bonjour;こんにちは;Hola;안녕하세요&center=true&width=380&height=45">    
 </p>
 <hr>
 
@@ -49,16 +49,19 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-	
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>	
 <a href="https://github.com/Akash23536" target="_blank"> <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /> </a>
 <a href="https://linkedin.com/in/akash-bhadana" target="_blank"> <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> </a>
 </p>
-<a href="https://www](https://linkedin.com/in/akash-bhadana"> <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+<hr>
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash23536&show_icons=true&theme=radical" alt="akash23536" /></p>
+<p align="center" ><img  src="https://github-readme-stats.vercel.app/api?username=akash23536&show_icons=true&theme=radical" alt="akash23536" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=akash23536&theme=radical" alt="akash23536" /></p>
+<hr>
+ <p align="center">  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /> </p>
+ <hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash23536&theme=radical" alt="akash23536" /></p>
+
 
 
 
