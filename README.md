@@ -10,7 +10,7 @@
 <br/>
 <p align="center">
 	<a href="https://github.com/Akash23536">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;uietian;India&center=true&width=380&height=45">    </a>
+<img src="https://readme-typing-svg.herokuapp.com?lines=नमस्ते;ਸਤ ਸ੍ਰੀ ਅਕਾਲ;Hello;Bonjour;Hola;привет;こんにちは;안녕하세요&center=true&width=380&height=45">    </a>
 </p>
 <hr>
 
