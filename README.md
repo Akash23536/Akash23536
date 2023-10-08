@@ -21,9 +21,7 @@
 <img align="right" alt="coding" width="400" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 👨‍💻 Checkout my profile at (https://akash23536.github.io/MyPortfolio/)
-
 - 📫 How to reach me **23536akash.2021@gmail.com**
-
 - 📄 Know about my experiences [=>Resume<=](https://drive.google.com/file/d/1JVEWNZn99XyICbBGxhrWEBSTnvuqHmNT/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
