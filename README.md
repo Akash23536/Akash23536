@@ -5,6 +5,7 @@
 <hr>
  ABOUT ME ✌
  I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript; I build websites that delight and inform. I do it well. I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction. I do my best to stay on top of changes in the state of the art so that I can meet challenges with tools well suited to the job at hand...✌✌ 
+ 
 <hr>
 <p align="center">	
 <img src="https://readme-typing-svg.herokuapp.com?lines=नमस्ते;Hello;ਸਤ+ਸ੍ਰੀ+ਅਕਾਲ;Bonjour;こんにちは;Hola;안녕하세요&center=true&width=380&height=45">    
