@@ -10,6 +10,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=नमस्ते;Hello;ਸਤ+ਸ੍ਰੀ+ਅਕਾਲ;Bonjour;こんにちは;Hola;안녕하세요&center=true&width=380&height=45">    
 </p>
 <hr>
+
 <pre>
 💻 Learning full stack and other programming languages
 🌟 Main languages: c++, JavaScript
